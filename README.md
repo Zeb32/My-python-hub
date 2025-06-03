@@ -39,7 +39,7 @@ Welcome to my all-in-one Python repository! This is where I document my learning
 ## 📚 Learning Resources
 
 I often follow tutorials from:
-- [w3schools].(https://www.w3schools.com/python/default.asp)
+- [w3schools](https://www.w3schools.com/python/default.asp)
 - [Data with Bara](https://www.youtube.com/@DataWithBaraa)
 - [freeCodeCamp](https://www.freecodecamp.org/)
 - [Alex the Analyst](https://www.youtube.com/@AlexTheAnalyst)
